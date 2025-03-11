@@ -27,7 +27,7 @@ Do the following steps:
 
 - try to run ```curl https://www.google.com``` inside the container ( append at the end of the docker run command)
 - analyze and try to fix the issues
-- build the image with the tag: ```hello-app:test``` ⚠️ no push to dockerhub ⚠️
+- build the image with the tag: ```hello-app:test``` 
 - run it with ```curl```
 
 ## 5. Delete the created image
